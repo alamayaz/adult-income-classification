@@ -17,6 +17,6 @@ This project covers:
 
 ```text
 .
-├── notebook.ipynb        # Main Colab notebook
+├── AdultIncomePred.ipynb        # Main Colab notebook
 ├── README.md             # This file
-└── requirements.txt      # (optional) pinned dependencies
+
